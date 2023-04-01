@@ -1,3 +1,5 @@
+# ！！！使用 chrome 扩展 [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en)
+
 # CsdnAutomaticallyOpen 介绍
 CSDN文章不会直接显示全文，据称登录后会自动展开，并没有，每次都要自己点，简直无法忍受！！！花了点时间学习摸索，自己搞个插件来自动展开。
 
